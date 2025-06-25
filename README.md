@@ -3,6 +3,18 @@
 This is the handle repository for the Time It Right application. It includes both the frontend and backend as Git submodules, allowing unified development and deployment using Docker Compose.
 
 ---
+## 🔧 Requirements
+
+Before running the application, make sure you have the following tools installed on your system:
+
+- Node.js – v18+ (used for development tools and local scripts)
+- Docker – for containerizing backend, frontend, and PostgreSQL
+- Docker Compose – for orchestrating multi-container Docker applications
+- Git – to clone the repository and initialize submodules
+
+📝 You do **not** need to install PostgreSQL or Node modules globally – Docker takes care of that during build time.
+---
+---
 
 ## 📦 Repository Structure
 
