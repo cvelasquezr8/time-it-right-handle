@@ -183,25 +183,21 @@ docker-compose up --build
 
 ### Preview
 
-```
-Login:
+#### Login:
+
 ![Login](./images/login.jpg)
-```
 
-```
-Register:
+#### Register:
+
 ![Register](./images/register.jpg)
-```
 
-```
-Game:
+#### Game:
+
 ![StartGame](./images/game1.jpg)
 ![StopGame](./images/game2.jpg)
-```
 
-```
-Leaderboard:
+#### Leaderboard:
+
 ![Leaderboard](./images/leaderboard.jpg)
-```
 
 ---
