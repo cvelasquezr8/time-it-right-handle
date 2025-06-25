@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/cvelasquezr8/time-it-right-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/cvelasquezr8/time-it-right-backend.git
